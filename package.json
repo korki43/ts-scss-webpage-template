@@ -2,7 +2,6 @@
   "name": "ts-scss-webpage",
   "version": "1.0.0",
   "scripts": {
-    "gen": "node generate.js",
     "build": "webpack --mode production",
     "dev": "webpack serve --open"
   },
